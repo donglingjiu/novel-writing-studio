@@ -1,0 +1,4 @@
+interface:
+  display_name: "吸引力与可读性评审"
+  short_description: "对照范本评估网文开篇抓人度钩子强度与节奏并给出评分建议"
+  default_prompt: "对照范本评审本章开篇抓人度、钩子强度与节奏"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧情结构设计"
+  short_description: "把大纲细化为网文分卷章节大纲并标注钩子爽点位置与节奏"
+  default_prompt: "把大纲细化为分卷/章节大纲并标注钩子位置"

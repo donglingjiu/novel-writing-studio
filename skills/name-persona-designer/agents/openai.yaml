@@ -1,0 +1,4 @@
+interface:
+  display_name: "书名与人设设计"
+  short_description: "根据故事思路大纲与范本风格设计网文备选书名和人物人设卡片资料"
+  default_prompt: "根据故事思路/大纲设计网文书名和人物人设"

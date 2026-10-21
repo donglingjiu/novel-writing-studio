@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事圣经维护"
+  short_description: "维护并查询超长篇网文连载中人物时间线伏笔的一致性台账数据"
+  default_prompt: "更新或查询故事圣经中的人物、时间线、伏笔信息"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "网文正文写作"
+  short_description: "按人设剧情结构风格与字数要求逐章产出网文连载正文成稿"
+  default_prompt: "按人设、剧情结构、风格与字数要求写作本章正文"
